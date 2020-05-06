@@ -1,0 +1,8 @@
+{
+  "short_name": "nergy",
+  "name": "nergy - Ovo/Octopus Agile Comparison",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

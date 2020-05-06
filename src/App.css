@@ -1,0 +1,8 @@
+.App {
+  margin: 10px;
+}
+
+header > a {
+  display: inline-block;
+  padding-right: 10px;
+}
